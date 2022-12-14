@@ -1,12 +1,29 @@
 {
     "users": [
         {
-            "id":"1",
+            "id": "1",
             "Name": "Vivek",
             "email": "vivek@gmail.com"
         }
     ],
     "Products": [
-        "cate"
+        {
+            "id":"1",
+            "title": "Apple MLXW3HNA MacBook Air (Apple M2 Chip/8GB/256GB SSD/macOS Monterey/Liquid Retina), 34.46 cm (13.6-inch), Space Grey",
+            "avatar": "https://www.reliancedigital.in/medias/Apple-MLXW3HN-A-Laptop-492850650-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w5NDkxNHxpbWFnZS9qcGVnfGltYWdlcy9oNjEvaDg2Lzk4NTA5NDcyMDcxOTguanBnfGI1ZWNlZDRlNTRlODczNWU1YzdlNzdkMGRhY2VjMjY4NDM4ZDNlNDEwODczMzgxYTY0M2MxNTMyY2MxMTYxODE",
+            "category": "Laptop",
+            "brand": "Apple",
+            "price": "104313",
+            "discription": "The most powerful MacBook Pro ever is here. With the blazing-fast M1 Pro or M1 Max chip — the first Apple silicon designed for pros — you get groundbreaking performance and amazing battery life. Add to that a stunning Liquid Retina XDR display, the best camera and audio ever in a Mac notebook, and all the ports you need. The first notebook of its kind, this MacBook Pro is a beast."
+        },
+        {
+            "id": "2",
+            "title": "HP 14s-dr3001TU Laptop (Intel Pentium Silver N6000/8 GB/256 GB SSD/UHD Graphics/Windows 11 Home/MSO/HD), 35.6 cm (14 inch)",
+            "avatar": "https://www.reliancedigital.in/medias/Hp-681Y7PA-ACJ-Laptop-493178767-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w4MjY1M3xpbWFnZS9qcGVnfGltYWdlcy9oODIvaDE0Lzk5MjM5NDA0MTc1NjYuanBnfDc0NTFmNWEzMDE5OTFmNTIwNjY1ZWQ0ZjdiYzIxMTQ0YTg4NzM3YWFmZDg3NDUxM2U0MGJjMjZlNjc3OTliNjM",
+            "category": "Laptop",
+            "brand": "hp",
+            "price": "26490",
+            "discription": "Stay connected to what matters most with long-lasting battery life and a thin and portable, micro-edge bezel design. Built to keep you productive and entertained from anywhere, the HP 35.6 cm (14 inch) Laptop PC features reliable performance and an expansive display - letting you stream, surf and speed through tasks."
+        }
     ]
 }
